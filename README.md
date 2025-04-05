@@ -38,7 +38,7 @@ The final visualizations include:
 
 ## 📷 Dashboard Snapshot
 
-![IMDB Movie Dashboard](IMDB%20Movie%20Trends%20and%20Performance%20Analysis.png)
+![IMDB Movie Dashboard](https://github.com/SoumyaShahh/Movie-Trends-Analysis/blob/main/IMDB%20Movie%20Trends%20and%20Performance%20Analysis.png)
 
 ## 📎 How to Use
 1. Clone the repository or download the files.
