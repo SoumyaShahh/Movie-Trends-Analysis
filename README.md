@@ -49,4 +49,3 @@ The final visualizations include:
 
 🔗 **Check out the interactive dashboards on my [Tableau Public Profile](https://public.tableau.com/app/profile/soumya.shah6876/viz/IMDBMovieTrendsandPerformanceAnalysis/IMDBMovieTrendsandPerformanceAnalysis)**  
 
-Feel free to fork the repo or suggest improvements! ⭐
