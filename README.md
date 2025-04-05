@@ -45,6 +45,8 @@ The final visualizations include:
 2. Open the Jupyter Notebook to explore the analysis.
 3. View the final dashboards in the exported image or rerun the visualizations.
 
----
+## 📎 Link to Tableau Profile
+
+🔗 **Check out the interactive dashboards on my [Tableau Public Profile](https://public.tableau.com/app/profile/soumya.shah6876/viz/IMDBMovieTrendsandPerformanceAnalysis/IMDBMovieTrendsandPerformanceAnalysis)**  
 
 Feel free to fork the repo or suggest improvements! ⭐
