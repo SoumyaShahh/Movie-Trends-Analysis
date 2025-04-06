@@ -31,4 +31,4 @@ The dashboard includes the following visualizations:
 
 ## 🔗 Tableau Public Profile
 
-View more dashboards on my [Tableau Public profile](https://public.tableau.com/app/profile/soumya.shah6876/viz/MoviesDataAnalysis_17431305476590/DataMoviesIMDbDashboard).
+Use the [Tableau Public link](https://public.tableau.com/app/profile/soumya.shah6876/viz/MoviesDataAnalysis_17431305476590/DataMoviesIMDbDashboard) to explore more features of the dashboard and interact with various filters, visualizations, and insights in real time.
