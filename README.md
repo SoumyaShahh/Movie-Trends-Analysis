@@ -1,6 +1,6 @@
-# 📽️ Data + Movies IMDb Dashboard
+# 📽️ Movies Tends & Analysis Dashboard
 
-This project presents an interactive Tableau dashboard developed using a comprehensive IMDb dataset. The dashboard offers insights into movies and actors from 1900 to 2022, enabling users to explore historical and genre-based trends in the film industry.
+This project presents an interactive Tableau dashboard developed using a comprehensive IMDb movies dataset. The dashboard offers insights into movies and actors from 1900 to 2022, enabling users to explore historical and genre-based trends in the film industry.
 
 ## 📊 Dashboard Overview
 
