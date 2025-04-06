@@ -27,7 +27,7 @@ The dashboard includes the following visualizations:
 
 ## 📷 Dashboard Preview
 
-![Data + Movies IMDb Dashboard]()
+![Data + Movies IMDb Dashboard](https://github.com/SoumyaShahh/Movie-Trends-Analysis/blob/main/Data%20%2B%20Movies%20IMDb%20Dashboard.png)
 
 ## 🔗 Tableau Public Profile
 
