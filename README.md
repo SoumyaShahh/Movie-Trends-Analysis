@@ -2,15 +2,6 @@
 
 This project dives into a rich IMDb dataset provided by Tableau, showcasing over 526,000 movie titles and data on more than 2.4 million people involved in global film production from 1894 to 2022. The dashboard was created as part of Tableau’s Data + Movies Challenge, aimed at helping users explore patterns in film releases, genres, ratings, language diversity, and award-winning trends.
 
-🔍 Why This Dashboard Matters
-With the entertainment industry rapidly evolving, data-driven decision-making has become a game-changer. Whether you're a film producer, streaming executive, data analyst, or a movie enthusiast, this dashboard offers a comprehensive view of movie performance and audience preferences over time. It helps you answer key questions like:
-
-📈 Which genres have grown in popularity over the years?
-🗣️ What languages are most represented in cinema?
-🏆 Which movies dominate Academy Award wins?
-⭐ How do top-rated movies correlate with the number of audience votes?
-
-
 ## 📊 Dashboard Overview
 
 The dashboard includes the following visualizations:
