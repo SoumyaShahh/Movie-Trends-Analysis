@@ -3,7 +3,7 @@
 📌 **Overview**  
 This project explores an extensive IMDb dataset containing over **526,000 movie titles** and **2.4 million people** involved in global filmmaking from **1894 to 2022**. Built using Tableau, the dashboard enables interactive insights into movie trends, languages, genres, audience ratings, and award-winning films. It was developed as part of the **Data + Movies Challenge** in collaboration with Tableau and IMDb.
 
-## 📷 Dashboard Preview - Explore the Dashboard here [↗](https://public.tableau.com/app/profile/soumya.shah6876/viz/MIS545_IMDB_MoviesDashboard/Dashboard1)
+## 📷 Dashboard Preview - [Explore the Dashboard here ↗](https://public.tableau.com/app/profile/soumya.shah6876/viz/MoviesDataAnalysis_17431305476590/DataMoviesIMDbDashboard)
 
 ![Data + Movies IMDb Dashboard](https://github.com/SoumyaShahh/Movie-Trends-Analysis/blob/main/Data%20%2B%20Movies%20IMDb%20Dashboard.png)
 
