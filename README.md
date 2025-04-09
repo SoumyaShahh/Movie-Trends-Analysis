@@ -7,6 +7,10 @@ This project explores an extensive IMDb dataset containing over **526,000 movie 
 
 ![Data + Movies IMDb Dashboard](https://github.com/SoumyaShahh/Movie-Trends-Analysis/blob/main/Data%20%2B%20Movies%20IMDb%20Dashboard.png)
 
+## 🔗 Tableau Public Profile
+
+Use the [Tableau Public link](https://public.tableau.com/app/profile/soumya.shah6876/viz/MoviesDataAnalysis_17431305476590/DataMoviesIMDbDashboard) to explore more features of the dashboard and interact with various filters, visualizations, and insights in real time.
+
 The goal is to help entertainment professionals, analysts, and enthusiasts **understand movie performance**, **identify audience preferences**, and make **data-driven decisions** to optimize business strategy and growth.
 
 🎯 **Objectives**  
@@ -51,7 +55,3 @@ The goal is to help entertainment professionals, analysts, and enthusiasts **und
 - **Language Expansion**: English dominates, but rising entries in Hindi, Spanish, and Japanese show international potential.  
 - **Strategic Planning**: Studios can use these insights for content planning, localization, and audience targeting.
 
-
-## 🔗 Tableau Public Profile
-
-Use the [Tableau Public link](https://public.tableau.com/app/profile/soumya.shah6876/viz/MoviesDataAnalysis_17431305476590/DataMoviesIMDbDashboard) to explore more features of the dashboard and interact with various filters, visualizations, and insights in real time.
